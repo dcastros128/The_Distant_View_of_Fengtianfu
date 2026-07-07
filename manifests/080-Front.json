@@ -1,0 +1,135 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/manifests/080-Front.json",
+  "type" : "Manifest",
+  "behavior" : [ "continuous" ],
+  "label" : {
+    "en" : [ "080-Front " ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Taguchi Beisaku 田口米作 (Japanese artist, 1864-1903)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title (English):" ]
+    },
+    "value" : {
+      "en" : [ "Distant View of Fengtianfu: The Bivouac of Japanese Troops (Hôtenfu enbô: Nichigun roei no zu)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title (Japanese):" ]
+    },
+    "value" : {
+      "en" : [ "奉天府遠望日軍露営之圖" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date:" ]
+    },
+    "value" : {
+      "en" : [ "c. 1894" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language:" ]
+    },
+    "value" : {
+      "en" : [ "jpn" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject:" ]
+    },
+    "value" : {
+      "en" : [ "Sino-Japanese War (1894-1895)\nMukden " ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description:" ]
+    },
+    "value" : {
+      "en" : [ "Inscriptions: [Upper-right] Title; [Down-right] Artist's signature; [Down-left] Publisher (Takekawa Seikichi 武川清吉); Date and location of production" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/obtf7imfxxk-mray415p",
+    "type" : "Canvas",
+    "height" : 9054,
+    "width" : 6234,
+    "label" : {
+      "en" : [ "001r\n" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/obtf7imfxxk-mray415p/annotation-page/lt2totx4it-mray415p",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/2v64kptmaoi-mray1552/annotation/ty2aosojam8-mray3z8v",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/2v64kptmaoi-mray1552/canvas/obtf7imfxxk-mray415p",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9054,
+          "width" : 6234
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/r7a2pwmwmsf-mray4zh5",
+    "type" : "Canvas",
+    "height" : 9088,
+    "width" : 6225,
+    "label" : {
+      "en" : [ "002r\n" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/r7a2pwmwmsf-mray4zh5/annotation-page/dq0q3adeqeq-mray4zh5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/2v64kptmaoi-mray1552/annotation/hz2deqvns57-mray4xfd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/2v64kptmaoi-mray1552/canvas/r7a2pwmwmsf-mray4zh5",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/002r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9088,
+          "width" : 6225
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/atqf8xqf7tj-mray5p22",
+    "type" : "Canvas",
+    "height" : 9114,
+    "width" : 6191,
+    "label" : {
+      "en" : [ "003r\n" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/2v64kptmaoi-mray1552/canvas/atqf8xqf7tj-mray5p22/annotation-page/c3zdz7znp8t-mray5p22",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/2v64kptmaoi-mray1552/annotation/ymi792204u7-mray5nob",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/2v64kptmaoi-mray1552/canvas/atqf8xqf7tj-mray5p22",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/003r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9114,
+          "width" : 6191
+        }
+      } ]
+    } ]
+  } ]
+}
