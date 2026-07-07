@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in dcastros128/The_Distant_View_of_Fengtianfu project"
+        ]
+    },
+    "items": []
+}
