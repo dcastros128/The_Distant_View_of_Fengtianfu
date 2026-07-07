@@ -1,0 +1,15 @@
+{
+  "id" : "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in dcastros128/The_Distant_View_of_Fengtianfu project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/manifests/080-Front.json",
+    "label" : {
+      "en" : [ "080-Front " ]
+    },
+    "type" : "Manifest"
+  } ]
+}
