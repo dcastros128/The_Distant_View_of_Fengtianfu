@@ -1,0 +1,210 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/manifests/080-Singles.json",
+  "type" : "Manifest",
+  "behavior" : [ "individuals" ],
+  "label" : {
+    "en" : [ "080-Singles" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Creator:" ]
+    },
+    "value" : {
+      "en" : [ "Taguchi Beisaku 田口米作 (Japanese artist, 1864-1903)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title (English):" ]
+    },
+    "value" : {
+      "en" : [ "Distant View of Fengtianfu: The Bivouac of Japanese Troops (Hôtenfu enbô: Nichigun roei no zu)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title (Japanese):" ]
+    },
+    "value" : {
+      "en" : [ "奉天府遠望日軍露営之圖" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date:" ]
+    },
+    "value" : {
+      "en" : [ "c. 1894" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Language:" ]
+    },
+    "value" : {
+      "en" : [ "jpn" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject:" ]
+    },
+    "value" : {
+      "en" : [ "Sino-Japanese War (1894-1895)\nMukden " ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description:" ]
+    },
+    "value" : {
+      "en" : [ "Inscriptions: [Upper-right] Title; [Down-right] Artist's signature; [Down-left] Publisher (Takekawa Seikichi 武川清吉); Date and location of production" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/c9nyb5r2u28-mrazjt29",
+    "type" : "Canvas",
+    "height" : 9054,
+    "width" : 6234,
+    "label" : {
+      "en" : [ "001r" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/c9nyb5r2u28-mrazjt29/annotation-page/82sm7oylj14-mrazjt29",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/q8umfjarkrl-mrazjsxs",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/c9nyb5r2u28-mrazjt29",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9054,
+          "width" : 6234
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/ohzxlc4tk2q-mrazki1j",
+    "type" : "Canvas",
+    "height" : 9064,
+    "width" : 6216,
+    "label" : {
+      "en" : [ "001v" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/ohzxlc4tk2q-mrazki1j/annotation-page/wqswbikwle9-mrazki1j",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/z96mosx35g-mrazki08",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/ohzxlc4tk2q-mrazki1j",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/001v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9064,
+          "width" : 6216
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pccngej9jj9-mrazl1tv",
+    "type" : "Canvas",
+    "height" : 9088,
+    "width" : 6225,
+    "label" : {
+      "en" : [ "002r" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pccngej9jj9-mrazl1tv/annotation-page/s1ekqdup26h-mrazl1tv",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/pjuk19vsuni-mrazl1mk",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pccngej9jj9-mrazl1tv",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/002r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9088,
+          "width" : 6225
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/xt9l2hvemsf-mrazlcbu",
+    "type" : "Canvas",
+    "height" : 9059,
+    "width" : 6215,
+    "label" : {
+      "en" : [ "002v" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/xt9l2hvemsf-mrazlcbu/annotation-page/v3551857uu7-mrazlcbu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/0een1nbfxngh-mrazlcao",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/xt9l2hvemsf-mrazlcbu",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/002v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9059,
+          "width" : 6215
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/54zi119d1yg-mrazlohd",
+    "type" : "Canvas",
+    "height" : 9114,
+    "width" : 6191,
+    "label" : {
+      "en" : [ "003r" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/54zi119d1yg-mrazlohd/annotation-page/4rrjl2fm3hg-mrazlohd",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/hwdwevofrbj-mrazlogb",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/54zi119d1yg-mrazlohd",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/003r/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9114,
+          "width" : 6191
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pvjm66adbjm-mrazlw6y",
+    "type" : "Canvas",
+    "height" : 9107,
+    "width" : 6232,
+    "label" : {
+      "en" : [ "003v " ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pvjm66adbjm-mrazlw6y/annotation-page/2n99a1so69e-mrazlw6y",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/u6xq0o3d6-mrazc5mb/annotation/xyjpkmbftj-mrazlw5n",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/u6xq0o3d6-mrazc5mb/canvas/pvjm66adbjm-mrazlw6y",
+        "body" : {
+          "id" : "https://dcastros128.github.io/Distant_View_of_Fengtianfu/images/003v/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9107,
+          "width" : 6232
+        }
+      } ]
+    } ]
+  } ]
+}
