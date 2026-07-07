@@ -23,5 +23,11 @@
       "en" : [ "080-Singles" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://dcastros128.github.io/The_Distant_View_of_Fengtianfu/manifests/Anthony_J._Mourek_Collection_of_Japanese_Prints.json",
+    "label" : {
+      "en" : [ "Anthony J. Mourek Collection of Japanese Prints" ]
+    },
+    "type" : "Collection"
   } ]
 }
